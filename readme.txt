@@ -3,3 +3,4 @@ Git is free software.
 Git is gorgeous.
 Git has a mutable index called stage.
 Creating a new branch is quick & simple.
+Git has stash command for saving changes temporarily.
